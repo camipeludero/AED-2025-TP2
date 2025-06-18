@@ -5,6 +5,7 @@ def es_digito(c):
     return c in '0123456789'
 
 def validar_moneda(nro_cod):
+    nro_cod = nro_cod.strip()
     ars = 0
     usd = 0
     jpy = 0
@@ -40,6 +41,7 @@ def validar_moneda(nro_cod):
     return moneda
 
 def validar_numero_orden(num_codigo):
+    num_codigo = num_codigo.strip()
     if num_codigo == '':
         return False
 
@@ -57,7 +59,7 @@ def calcular_monto_base_1(monto_nominal: float):
 
 def calcular_monto_base_2(monto_nominal: float):
     if monto_nominal < 50000:
-        return 0
+        return monto_nominal
     elif 50000 <= monto_nominal < 80000:
         return monto_nominal - (monto_nominal * 0.05)
     else:
@@ -84,7 +86,7 @@ def calcular_monto_base_5(monto_nominal: float):
         comision = 50000
     return monto_nominal - comision
 
-def calcular_monto_base(monto_nominal: float, n_algoritmo: float):
+def calcular_monto_base(monto_nominal: float, n_algoritmo: int):
     if n_algoritmo == 1:
         return calcular_monto_base_1(monto_nominal)
     elif n_algoritmo == 2:
@@ -94,9 +96,9 @@ def calcular_monto_base(monto_nominal: float, n_algoritmo: float):
     elif n_algoritmo == 4:
         return calcular_monto_base_4(monto_nominal)
     elif n_algoritmo == 5:
-        return calcular_monto_base_4(monto_nominal)
+        return calcular_monto_base_5(monto_nominal)
     else:
-        return False
+        return 0
 
 def calcular_monto_final_1(monto_base: float):
     impuesto = 0
@@ -116,7 +118,7 @@ def calcular_monto_final_3(monto_base: float):
     impuesto = monto_base * 0.03
     return monto_base - impuesto
 
-def calcular_monto_final(monto_base: float, n_algoritmo: float):
+def calcular_monto_final(monto_base: float, n_algoritmo: int):
     if n_algoritmo == 1:
         return calcular_monto_final_1(monto_base)
     elif n_algoritmo == 2:
@@ -124,7 +126,17 @@ def calcular_monto_final(monto_base: float, n_algoritmo: float):
     elif n_algoritmo == 3:
         return calcular_monto_final_3(monto_base)
     else:
-        return False
+        return 0
+
+def calcular_promedio_entero(suma,cant):
+    if cant > 0:
+        return suma // cant
+    return 0
+
+def calcular_porcentaje_entero(cant,total):
+    if total > 0:
+        return (cant * 100) // total
+    return 0
 
 def main():
     archivo = open("ordenes.txt")
@@ -137,35 +149,44 @@ def main():
     nom_primer_benef,cant_nom_primer_benef = None,0
     total_ordenes = 0
     sum_ARS = 0
+    cant_ARS_validas = 0
 
     while linea != "":
         nombre_destinatario = linea[0:20].strip()
         numero_codigo = linea[20:30].strip()
         codigo_orden = linea[30:40].strip()
         monto_nominal = float(linea[40:50].strip())
-        id_algoritmo_comision = linea[50:52].strip()
-        id_algoritmo_impuesto = linea[52:54].strip()
+        id_algoritmo_comision = int(linea[50:52].strip())
+        id_algoritmo_impuesto = int(linea[52:54].strip())
 
         moneda = validar_moneda(codigo_orden)
         destinatario_ok = validar_numero_orden(numero_codigo)
 
         total_ordenes += 1
 
+        #5. El nombre del beneficiario de la primera operación del archivo (r13), y la cantidad de veces que ese mismo beneficiario apareció en el archivo (r14).
         if nom_primer_benef is None:
             nom_primer_benef = nombre_destinatario
-            cant_nom_primer_benef += 1
+            cant_nom_primer_benef = 1
         elif nom_primer_benef == nombre_destinatario:
             cant_nom_primer_benef += 1
 
+        monto_base = calcular_monto_base(monto_nominal, id_algoritmo_comision)
+        monto_final = calcular_monto_final(monto_base, id_algoritmo_impuesto)
+
+        # 4. El código de la orden de pago (r10),el monto nominal (r11) y el monto final (r12) de la operación que tenga la mayor diferencia entre el monto nominal y el monto final (monto_nominal - monto_final)(si hubiera más de una operación con la misma diferencia mayor, informar el código de la orden de la primera de ellas). Aquí deben ser consideradas TODAS las órdenes de pago (tanto válidas como ínválidas...)
+        dif = monto_nominal - monto_final
+        if my_dif is None or dif > my_dif: #no considero el caso en que sea = asique siempre deja la primera
+            my_dif = dif
+            cod_my = codigo_orden
+            mont_nom_my = monto_nominal
+            mont_fin_my = monto_final
+
         if moneda == 'Moneda no valida.':
+            #1. cantidad de operaciones inválidas que hay en el lote por moneda no autorizada (r1)
             cant_minvalida += 1
         else:
-            if not destinatario_ok:
-                cant_binvalido += 1
-            else:
-                cant_oper_validas += 1
-                suma_mf_validas += monto_nominal
-
+            #3. La cantidad de operaciones para cada una de las cinco monedas válidas en este modelo de trabajo (r5, r6, r7, r8 y r9). Si la orden tiene moneda válida, debe contarse sin importar si el beneficiario era incorrecto. -> por eso arriba de if destinatario_ok
             if moneda == 'ARS':
                 cant_ARS += 1
             elif moneda == 'USD':
@@ -176,28 +197,29 @@ def main():
                 cant_GBP += 1
             elif moneda == 'JPY':
                 cant_JPY += 1
+
+            if destinatario_ok:
+                #2. La cantidad de operaciones válidas (r3)
+                cant_oper_validas += 1
+                #2. la suma de todos los montos finales de estas operaciones válidas (r4).
+                suma_mf_validas += monto_final
+
+                #El monto final promedio, pagado entre todas las órdenes válidas (en moneda y en beneficiario) emitidas en moneda ARS (r16).
+                if moneda == 'ARS':
+                    sum_ARS += monto_final
+                    cant_ARS_validas += 1
             else:
-                cant_minvalida += 1
-
-            monto_base = calcular_monto_base(monto_nominal,int(id_algoritmo_comision))
-            
-            if monto_base:  
-                monto_final = calcular_monto_final(monto_base, int(id_algoritmo_impuesto))
-
-                if monto_final:
-                    dif = monto_nominal - monto_final
-                    if my_dif is None or dif > my_dif:
-                        my_dif,cod_my,mont_nom_my,mont_fin_my = dif,codigo_orden,monto_nominal,monto_final
-
-                    if moneda == 'ARS':
-                        sum_ARS += monto_final
+                #1. cantidad de operaciones inválidas que hay en el lote por un destinatario mal identificado (r2)
+                cant_binvalido += 1
 
         linea = archivo.readline()
 
     archivo.close()
+    #El porcentaje que la cantidad de operaciones inválidas (por cualquier motivo) representa sobre la cantidad total de órdenes del archivo (r15).
+    porcentaje = calcular_porcentaje_entero((total_ordenes - cant_oper_validas),total_ordenes)
 
-    porcentaje = ((total_ordenes - cant_oper_validas) * 100) // total_ordenes
-    promedio = sum_ARS // cant_ARS
+    #El monto final promedio, pagado entre todas las órdenes válidas (en moneda y en beneficiario) emitidas en moneda ARS (r16).
+    promedio = calcular_promedio_entero(sum_ARS,cant_ARS_validas)
 
     print(' (r1) - Cantidad de ordenes invalidas - moneda no autorizada:', cant_minvalida)
     print(' (r2) - Cantidad de ordenes invalidas - beneficiario mal identificado:', cant_binvalido)
