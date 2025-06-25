@@ -1,26 +1,1001 @@
-21/05/2025 - 14 hs 52 min - Nueva Cordoba
-Maria Robles        K&ZJK     JPYN3B    756348201 4 3 
-Lucas Giacomelli    JL88C     0YVEURCZ  572252784 3 1 
-Sara Suarez         6W#0OA1WHECDJPY     91294709  4 2 
-Pedro Robles        FUND1Y36&9QEURZGR3Q 101879619 3 1 
-Tomas Iglesias      E#3-FJ&V  MEURMUCGCW835807747 3 1 
-Alejandro Iglesias  E6FLVTLM- BZBUSD6Z  780218672 2 2 
-Maria Robles        T0-#Q&R08MELGBPCK   904960643 3 3 
-Alejandro Suarez    ME4&6Z-2S IARSEARS3 685022976 1 2 
-Pedro Robles        -MUKIB14  JC8GBPREYT575884785 3 3 
-Laura Tomalino      V#RDMSIL& USDOFGCDX 601319458 2 1 
-Luis Tomalino       O408Y     QRMARS    629816444 5 3 
-Sara Suarez         EGYIL9A   EGBP80    171001456 3 2 
-Ana Robles          78EGS999  JPYXATGA0 460683499 4 2 
-Sara Giacomelli     TZ4M4     NUSD      14124426  2 3 
-Luis Freire         FT26X     MARS      472223581 5 3 
-Maria Salinas       Q8G%DX0AC 5CGBP     558741533 3 1 
-Luis Salinas        WI307J&   2EURD     114094588 3 1 
-Sara Salinas        N6OG4     JF9       965537359 2 2 
-Lucas Robles        SQN-KW#   JPY       319803671 4 3 
-Tomas Giacomelli    L0NGQQ0R  0PEUR     794485923 3 3 
-Tomas Salinas       ANX##B2LK 1Y        90204595  1 1 
-Maria Robles        B-CDVU    YEURSFV   640734791 3 2 
-Maria Robles        4I&RW7    GSUSDYKHI 106545287 2 1 
-Abril Salinas       O8PFL6FTCXUX-GBP    440148253 3 2 
-Tomas Giacomelli    BVS%U26   GYARS     169154731 5 3 
+Cofico - 18:15 – 10/06/2022
+Lucas Salinas       AAQMPKT   B2JPY     821844069 7 1
+Tomas Robles        1EXIFZM&6 2GSARSLKV9485886459 1 1
+Lucas Suarez        JKJI95E   MJPYF40   408958180 4 5
+Maria Suarez        HYWQJ#KK  7X7B      131293043 1 1
+Sara Giacomelli     G81MD     NHK       248879622 1 1
+Pedro Suarez        YFNLZ#    QV04JMA7ZH841168731 8 1
+Tomas Freire        31MXK0    9WGBP     360383074 8 4
+Pedro Iglesias      XYAZI     CIFGBPM   392352178 3 5
+Juan Freire         A--0&     -6EUSDL   438697834 6 3
+Lucas Suarez        S-P53I-VT 5GUSDZL2V 234089915 2 2
+Pedro Robles        0Y3%4N    3HARS9UVL 351989415 5 5
+Alejandro Tomalino  QNT2L6TR  JG9GBP    374825033 8 5
+Alejandro Tomalino  38E13OF   JFGBP     331215073 8 2
+Laura Iglesias      3QTVHRC   I5JUSD    807718636 2 1
+Pedro Iglesias      NNW51     USD94OV   381486524 2 4
+Alejandro Tomalino  SLVFS-WGDYLJGBPL5   390167980 8 4
+Juan Robles         9N0GSIF   9KOJPYYJPY929345079 7 1
+Abril Suarez        FXN2TY    25GBPB7C  100053077 3 2
+Pedro Giacomelli    9#YW5HLA59XKJ       428020025 5 2
+Luis Iglesias       &0W2K&HT  XS        147426260 6 2
+Maria Salinas       6G0WF3    NUSDW     18363266  2 2
+Maria Suarez        &RERXGVV  ARSV      347116602 5 4
+Lucas Salinas       3RTL57    JPY       355898215 7 1
+Maria Salinas       U7R8JN    8UTUSD    898095417 2 2
+Juan Tomalino       2-A8WTN   YWARS     105197486 1 5
+Alejandro Salinas   N7WXLQ21  EUR       46304620  3 1
+Laura Iglesias      U3CLO     FFHUSD    586950139 2 4
+Alejandro GiacomelliVJGZ&6AIYCKP        901844401 4 2
+Ana Robles          3C89H     JUSDD     826868241 6 1
+Laura Salinas       R5ABWDZCH53USDC1N3  671056488 6 5
+Lucas Iglesias      W5%UWLMMN WNJPYN    159584631 4 1
+Lucas Salinas       ELG45Z    ARS       322267681 5 4
+Pedro Suarez        6AYO99S   TF5ARSKQFI790423055 5 3
+Tomas Salinas       9N#I7QA#D JPY50XZ883116971775 7 3
+Abril Tomalino      C&SDM3UU  RXOEUR    210520880 3 4
+Luis Giacomelli     V723P     5EURJUX1PJ78867498  3 2
+Abril Giacomelli    %PM9EE#8  TA        660911905 6 5
+Sara Iglesias       S1#F-#    USDS4KJ5R 638783291 2 5
+Maria Iglesias      %85%UY9P  6NZLB     914081218 6 1
+Abril Suarez        &H0LX&6   -RGGBP    412204476 8 3
+Laura Iglesias      -318JC0   U4TJPYV   256756004 7 2
+Tomas Freire        8-8O1SV   L2UF      610073181 5 4
+Maria Freire        BROSV     CF0EUR    307925183 3 1
+Pedro Tomalino      LWMUE     I9YUSD4   550222924 6 4
+Alejandro GiacomelliMNU4E4UP  USDXVSPRM 670744756 6 5
+Lucas Freire        Y11990    N55JPY    187636003 4 5
+Maria Giacomelli    2KQ2JDES# 7USD1KCH  802318564 2 2
+Alejandro Salinas   PO#0GIBVAROARS      233088694 5 2
+Ana Salinas         T1X44YW0  GBPX7     239737638 8 5
+Sara Robles         #4&TM     USDXF30   657945134 2 3
+Abril Robles        P39--KRW  PSUUSDYU  202314496 6 3
+Tomas Freire        WPZ-Q     M6USD     787869552 6 5
+Alejandro Freire    6QN2VDWN  M9ARSY    358692882 1 2
+Ana Suarez          -WQOQNX6A EURGEURP  952272924 3 4
+Laura Freire        3#IO1W    EURFEUR3YG170883839 3 5
+Alejandro Freire    EF8XQ     DEURTO-P  792439336 3 4
+Alejandro Salinas   09RIH57   SP        577576358 7 4
+Laura Iglesias      E02BCH%O  GBPPGBP   411492023 8 1
+Alejandro Iglesias  %1838     94EGBPP   325062654 3 2
+Luis Freire         GZII0AH   RAYGBP6KNL748746811 3 3
+Luis Freire         DKM28TDO& UH3DMH7   866496468 1 1
+Abril Robles        X0GIZ8S08 ARSWARS   504549524 1 5
+Lucas Suarez        VQELA     EURWEUR   272031360 3 5
+Ana Robles          JHM93K2-I DSEURHN   294223036 3 4
+Laura Tomalino      PK55HI    EURL      518782023 3 2
+Pedro Freire        #W9D2Q0   1         952131238 3 4
+Luis Robles         ##1&4     ARS       332740776 5 3
+Abril Suarez        84K%L4HE  NGBPGGBP  163525161 8 1
+Alejandro Tomalino  RG6H1Q-6P 942JPY    38920018  4 2
+Luis Salinas        3VQ0T%W1H GBP       693063635 3 1
+Pedro Tomalino      YIRZZL--  AGD0N4QA6 565342666 7 1
+Lucas Freire        VCE2S-    R5JPY1P9C 835459229 7 1
+Tomas Freire        6YGRDCA   QKMARSJEU7926163859 1 4
+Maria Freire        -J7-2     QHLUSD    418701301 2 3
+Lucas Robles        FYR8ZC&D# LBPARS52H 782985454 1 4
+Laura Suarez        6NU%5UB   SBZARS    224759790 1 2
+Laura Robles        W-P0H6GO  GOUSD     958590534 2 2
+Luis Tomalino       UOBDJHQJ4 F3GBP2GBP 164702239 3 1
+Sara Suarez         X&998J0%  EURFD5VSI 865502161 3 4
+Laura Tomalino      PFA#JDC   WJPY      822803849 7 1
+Ana Robles          VT6MEI    68USD     504164306 2 2
+Abril Suarez        0%7038#Y05YCBUSD    963057992 6 3
+Abril Iglesias      5ZKFHN46VJ8L        619748602 7 5
+Juan Iglesias       7N&7HYHB7 M         943438635 2 4
+Sara Giacomelli     -98QAJ#LA B1OSAU    978574501 8 1
+Pedro Suarez        DEJQMMM%% UWKGBP    231883066 8 5
+Ana Tomalino        IN53JQUC  XB1ARS    182278850 1 3
+Juan Suarez         30QOAIX8  2EOJPY    650237450 4 5
+Juan Salinas        HCFXW9    AN76      419965429 3 3
+Tomas Salinas       SY&B5WN   DYJPY     900791902 7 1
+Laura Salinas       TV9%U6#ZAYA04ARS    323951594 5 4
+Tomas Freire        II5O5S    EJPY1RKM  688371279 4 4
+Sara Salinas        #UDB9C    KGBP2XRB  678541240 8 3
+Sara Robles         JUT&RI2   ARSX      702720029 1 3
+Pedro Giacomelli    84INUP    PJPY      295903075 7 5
+Tomas Suarez        TD6WJY9A5 18GGBPLFUH634040425 8 5
+Laura Iglesias      A&3L-3QA5MEURZ1     916006417 3 3
+Laura Suarez        ALX0%M9   I3GBP     180229863 3 5
+Maria Salinas       JDJO5     BHLGBP    271252279 3 4
+Sara Robles         TA-3RWOC  GBP       269637490 8 5
+Lucas Giacomelli    3GIF#MXRV 5Y7XB5ULU 390818675 7 4
+Maria Iglesias      NHQC8YR   PJPY      163672545 7 5
+Alejandro Robles    9I8%0     NBARS655JY579134616 5 4
+Juan Freire         6EUG81RFNFW1EEUR    732395018 3 3
+Alejandro Iglesias  CDE38U0AM UYFJPY    410566076 4 5
+Laura Giacomelli    M3K1I6DAO USD9USDG0 384090285 2 4
+Sara Iglesias       2QGMT     GBPJ      172573235 8 5
+Alejandro Freire    -6&Y2XXO  LSJPY     194001463 4 3
+Sara Tomalino       C802VH    HARSPZB7PY95948335  1 3
+Maria Tomalino      59-KZ     ZEURVOMX  425693014 3 4
+Alejandro Iglesias  BYW&V     CGIUSDXUSD307359069 6 4
+Abril Freire        FE6VO06   N8L8      693438604 7 4
+Abril Salinas       WZSQEEZ&  BEUR      265933919 3 3
+Luis Iglesias       5L&59%YK#7ARSM6RG98 549260162 1 4
+Luis Suarez         &9WZ9O    GBPLRZCB  389942275 8 5
+Abril Salinas       6IW79D    5JPY      220190864 4 3
+Alejandro Tomalino  &1NTY8    JPYLXQ    806727483 4 4
+Luis Tomalino       K8#CL##K-50DGJPYS   133708868 4 3
+Tomas Iglesias      T166W55   USD17ZM   676349336 2 1
+Laura Suarez        YZTR%H39  7YZGBP    705098365 3 4
+Tomas Suarez        HVPP4#-   EUSD      303674741 2 4
+Luis Iglesias       W&O%9R    AUSDZZLK  848475213 2 2
+Juan Salinas        YJ2BDNSL0 2HJPY6NI0 888927041 4 1
+Tomas Salinas       R7MDVD    1USD      227264453 2 5
+Alejandro Tomalino  -4Z8%     2WJUSD    424317047 2 5
+Laura Suarez        7V9LSXV2  5KLTLZZ6  111215111 1 4
+Luis Freire         TI3KD     KUSDMUSD  403765383 6 1
+Maria Iglesias      7VFZIV3W  ARSSTUNY  9214824   1 1
+Juan Giacomelli     7V6ZL     TH2DC8L   684568129 8 2
+Sara Tomalino       1C0WY     8JPYGYD   847958862 7 3
+Lucas Freire        17&UL     W7CARS    771230360 1 3
+Luis Giacomelli     18&8Z     X46EUR    609749020 3 3
+Ana Robles          %DPLB&QKE LAOARSKARS542685645 5 1
+Alejandro Tomalino  L8OIS2    USD       529105408 6 5
+Tomas Robles        O3HXF09   70IEURNEUR899347161 3 4
+Juan Giacomelli     BV3K9&    U3USDOV2  312152557 6 1
+Alejandro Iglesias  OCU%I     BJGBP6O   702673466 8 3
+Pedro Giacomelli    WRGJGNN0# LJPY      287975584 7 4
+Juan Iglesias       K99#%J    DUEURNEURU829248822 3 4
+Laura Giacomelli    9YXBM5    9MFR24D   90377625  5 3
+Pedro Suarez        JTRKS     XARS      667767296 5 5
+Juan Giacomelli     JO%AQ7    1GBPWGBPR 129914996 3 5
+Alejandro Robles    HVZY#WT3I J4GBPVTZ  654392346 8 5
+Tomas Tomalino      4GIKCKQ7I7EUR-WOD8  792451795 3 5
+Tomas Robles        &1AU4O-   2         74974799  3 3
+Tomas Giacomelli    NQFJS     ARS35ZOQA 334826854 1 4
+Laura Suarez        OSW9%QRU  EURDI4LR5K781588013 3 1
+Pedro Freire        %J2I-     7OEURKH   906255783 3 2
+Pedro Suarez        OT87RDZ-F&I9YUSD    142661483 6 1
+Ana Giacomelli      OA8U&HWKC8Z1C4V-I   437543190 3 2
+Ana Tomalino        W4WCQO%Q  QR4GBP    293542051 3 5
+Sara Iglesias       YZL6S8J   WGBPRX7   816509923 3 4
+Maria Giacomelli    #JLCRX    FEURMEUR  133507495 3 2
+Abril Iglesias      BIUSFX    6         842491654 5 4
+Laura Freire        B06QF     TGUSD11YA 55400916  2 1
+Pedro Salinas       &NZLU     MC7EURLHZ 836083557 3 4
+Maria Tomalino      SRJF6XOWE ARS-TM    381277375 1 1
+Luis Freire         VQAH35    HXXD8-2   505247499 3 1
+Pedro Salinas       HBQK5U    -ARS      965414136 5 3
+Pedro Tomalino      C-MA6M#1  JPYOQXO   50234254  4 3
+Pedro Robles        2%PESVA   0ARSGF    51168396  5 3
+Lucas Giacomelli    7#S0C8%DQ JPYF1NBR  66865414  7 2
+Ana Giacomelli      --IUX     3ARSL34   109318018 1 5
+Pedro Tomalino      1LCO68G%% AFGEUR    940122382 3 1
+Ana Suarez          3W9WUA    5USDCIRM  342635742 6 5
+Laura Iglesias      B%%06     KCFNY8NB  208957958 1 3
+Maria Giacomelli    0IMCP0AG  5TARS6-W0A414248909 5 4
+Ana Freire          J9JVHIFSW JPYK02-0  786146706 4 5
+Ana Suarez          7029&7O   D5PPJRDH  472545316 4 3
+Laura Iglesias      0-SQ0O    9GUSD     218666538 2 1
+Laura Giacomelli    #0V#43    7GBPZMR   12622556  3 5
+Abril Salinas       SKJ18T3-J DQ7EUR    761945720 3 3
+Sara Freire         %&VQYK1   ZEJPY     238595656 4 1
+Lucas Tomalino      DW-#1Z    QARS2UI3  493869630 1 2
+Alejandro Suarez    9UH9EL73  QZARS     465635168 5 2
+Lucas Iglesias      M174AM6WL GGBP2AS   152195437 3 3
+Tomas Salinas       19S9%     JPY0GBZ   594420605 7 5
+Laura Giacomelli    WQK&J&DS73ARSNA4H25I982864853 1 4
+Sara Iglesias       5NR%HRTG  A6USD     210086292 6 2
+Juan Suarez         &X7JII73  MVARS0    943835705 5 2
+Maria Suarez        GCMIIV    JPYZO     515509509 7 3
+Juan Robles         Z8#EED6ES GBP       751829747 8 1
+Abril Robles        KBBEOP    YFQARSMR  243894485 5 3
+Alejandro Robles    42#NUHP2Z D3USD7WTH 535875914 6 2
+Ana Robles          &-HW&HFVM EURRQEA3JS810631975 3 3
+Abril Robles        IG0IY     ZAGBPUXZK 751585226 3 3
+Tomas Robles        M%C-XLL31 7GEURNL   599097939 3 4
+Abril Iglesias      UNXCKBZ2Z Z4VEUR7   956700135 3 3
+Luis Tomalino       XOHJ9%F8  JEUR      881566604 3 3
+Laura Freire        W#VUHVZS  NO46      171983326 8 4
+Lucas Giacomelli    XJM8R8    KGBARS    891860890 5 3
+Tomas Iglesias      EC%ZL534A EUR95O    872633731 3 3
+Tomas Salinas       DE3-B     C4GBP5    644271521 3 1
+Pedro Tomalino      UTBE3AM   8EUR      838970833 3 5
+Pedro Giacomelli    UB1Z7     E6Z6BED6  666845375 6 2
+Lucas Salinas       QNY6J     7H7GBPDL  144039913 3 1
+Laura Iglesias      Q24XV     U7HJ      898445921 2 5
+Lucas Salinas       DLKMVCA   PG        591507218 3 5
+Lucas Giacomelli    6PSAT5    USDFCNHGN 193815298 6 5
+Pedro Suarez        1O8RS3EX  USDA8TJ   719837380 2 3
+Abril Salinas       3ZL5L     NVARS     634717971 1 5
+Abril Iglesias      480-GIQAFY4V3NZZJ1EE650760427 6 5
+Laura Suarez        P4FBI     Y8HGBP    422777877 3 5
+Lucas Freire        B7Y8G     O7EURGXJW8145921816 3 3
+Pedro Robles        6KOLY     ARSW-PA   837770575 5 2
+Pedro Robles        5VI6&     7JPY8JPY  212755406 7 2
+Tomas Freire        RIYJ6EU#4P2ZBJPY    722959033 7 3
+Abril Tomalino      YE-DNQQ   R94       919636392 1 3
+Luis Iglesias       WNV1C&    7O3ARS    207507669 1 3
+Abril Tomalino      2VGKR13TT Y1BUSD    833880791 2 1
+Sara Tomalino       5TFBHJQ   NJPY0JPY  596288775 7 1
+Ana Suarez          V6OL56-A18GUSDE3N   208439052 6 4
+Laura Giacomelli    EY1TN#6   ARSH      379496872 5 1
+Luis Iglesias       XNVYNC0   L-JUSD    853445315 2 2
+Maria Freire        6-TSVL&   USD1PU5QY 659295669 6 5
+Luis Robles         4%TOE-QJ&%GBPFC3JRU6382614357 3 5
+Pedro Giacomelli    J9Q-K8    EUR       577249432 3 5
+Sara Tomalino       E4G6SHUC  JPY       802362945 4 4
+Alejandro Suarez    506H50PKIXWVUJPY0   345446506 7 5
+Sara Salinas        EW9&A5-4I-JPY       509684107 4 4
+Maria Iglesias      OJZ82&    02ARSU7UB 761834452 5 2
+Luis Salinas        4OBGGAG   05H       60683700  3 3
+Tomas Salinas       6JFPQRL6  WFARS     962918854 5 2
+Pedro Suarez        598ON5    EURC6     355488614 3 2
+Abril Robles        LU&XE-    2UFT8R5   741603288 5 2
+Abril Tomalino      &%3KQIS7M OZEUR     570720507 3 2
+Maria Giacomelli    #4FDPVU   ZARSM4RZO5587851706 5 3
+Maria Salinas       OP987     POFPVB    910517401 1 4
+Alejandro Suarez    15KAJX0WGQARSW      170128631 1 3
+Laura Suarez        G7J%-0A5N WJPY      152322084 7 4
+Tomas Suarez        LHWXAL4T  2JPY      821214491 7 5
+Maria Iglesias      2YB3QY24KPMVLEUR    696013224 3 4
+Pedro Suarez        UVCU-63U  DWVJPY    968908169 4 2
+Alejandro Robles    GYD2X     C9SEUR    248957653 3 4
+Laura Salinas       FOQXC#K3  PU8USDM   468267640 6 5
+Juan Giacomelli     BEFUL&    6HWVEV44UW660409537 1 5
+Maria Freire        B88JJ%8   NJFGBP    318102760 3 1
+Pedro Freire        #HT-&Z    88ARSQCY  789501846 1 5
+Sara Giacomelli     9MCPRI    1SUSDX0HO 2702077   2 3
+Laura Salinas       O-77#&ROB DUSDI     29341642  6 3
+Laura Iglesias      L2O0B     1USDVW6E  961038051 2 3
+Laura Freire        TICA33CG&DH         947217665 5 2
+Tomas Salinas       QEQK5     N0        176651825 2 3
+Tomas Giacomelli    K7TVD     0IGBP     308875099 3 1
+Alejandro Robles    9D2F&8T&G HZ9EUR    834746509 3 2
+Sara Salinas        UQBQPBREIJYARS      537246830 1 1
+Tomas Salinas       YLD&P     PNDG9     351045999 2 1
+Lucas Suarez        QZE101-   SGBPR8XOEI508498565 3 1
+Maria Tomalino      V1%%5OJ82CYGGBPM20  553543539 8 3
+Lucas Robles        &68E55E   4AC2I7UF  39836061  2 3
+Abril Freire        CQFBJJZ#S ARS       161421729 1 3
+Sara Robles         PF99-#    6MPSHBQB  656881526 6 5
+Luis Iglesias       IDGZJ200  F76UPTAN02540009819 6 5
+Lucas Suarez        CCNC&L    OJPY      937546046 4 4
+Ana Freire          DG5C-%5JL XEURK     784399365 3 2
+Maria Giacomelli    ZVDJBF4   CJEGHG-   183405505 5 2
+Abril Salinas       Z#6M7BF   VBARS     310942153 1 3
+Sara Iglesias       -#8HMWPIL 00O       776066475 4 4
+Tomas Tomalino      2QUVIMYHJPFWJPYYH0  412998205 7 1
+Sara Salinas        JNS#71CE  EURMYA    846096601 3 3
+Abril Salinas       08GD-PVD  GLJPY6    932104480 7 4
+Alejandro Freire    IJU&9NIJ&QK90FH9H   345563055 4 1
+Laura Giacomelli    DNF71OPC  ARS-MKC   761295063 1 1
+Juan Salinas        EBLISA    -SPARS9S  735169051 5 4
+Juan Robles         PRJY5YBC2 4         120660515 8 3
+Laura Giacomelli    VGZWIL    RF39RH    898319269 7 2
+Pedro Tomalino      JMGZP8    OQEUR1L   573044760 3 3
+Abril Robles        Z7#O0N9&  XXGEURYS  4807037   3 4
+Laura Iglesias      RZZ5RZ    ARSX2     786551100 5 4
+Ana Iglesias        5%VM%     8YKGBP    528036865 3 5
+Ana Salinas         A6RM3XI0BX9YGBPR6B  922373608 8 4
+Sara Salinas        3%MXFG    O9LJPYBNC 513478390 4 2
+Luis Salinas        A4VT#S23  USDO22NM  982483030 2 3
+Maria Giacomelli    JM1F16N   QDFQJQO71G519458519 8 2
+Abril Suarez        3S&#O%    4NJPY     45097097  7 2
+Luis Suarez         4DNCMAA-X33T77HMN   572411773 8 2
+Ana Suarez          0SWUOK%NK IJPYG     23665868  4 4
+Lucas Tomalino      O#5NP     SSGBP     62760208  3 1
+Luis Giacomelli     HLDQ1     EUR6N     791593164 3 2
+Sara Iglesias       UE6RN84BC Z5GBP     838036715 3 3
+Pedro Freire        U&CNP     -USDR-O   741171731 6 3
+Luis Suarez         UNP4Y     ARS       120763179 1 3
+Luis Freire         OKL&JI    1UNFNL    313012017 5 2
+Pedro Iglesias      HYNUHM    USD       999526178 6 3
+Pedro Robles        VY#FQCIZU F7GBP2-3N 302636706 8 4
+Luis Giacomelli     %IJLKP&J  AFMJPY    151209880 4 5
+Laura Iglesias      #Z&J5Y    I-6GBPG   115092684 8 2
+Lucas Suarez        EM7HE6SP  XUJPY     584762471 4 5
+Tomas Tomalino      93KKG     2YT1V2P4JU622908627 4 4
+Alejandro Freire    JBDK4C    5AGBPWJESB450667489 8 4
+Juan Tomalino       LM7PK8    I9JPYK8   550423350 7 3
+Sara Salinas        FTA#592TS 0C        419734724 6 2
+Tomas Freire        Z1V831B5DRJPY       350378205 4 3
+Maria Robles        X%F2RC#S2A-RGBP     205938920 8 2
+Laura Giacomelli    QG496HBPG WGBPSRPV  650342827 3 4
+Abril Freire        TB9JR     J8ZUSDLUSD858954636 6 1
+Luis Robles         RZBPT-2   B8E2HNQ   60955204  3 1
+Lucas Suarez        F9GKHU6UF ARS       609511652 5 3
+Tomas Robles        JSX4Z6    YJPY6JPY  810212139 4 2
+Laura Giacomelli    R5511     EX-TG73   450497499 5 3
+Pedro Tomalino      #XDY2     JPYCYSST  923963890 4 5
+Alejandro Salinas   VY4-ULFB8#BEUSDJ3   436231297 2 1
+Tomas Salinas       HY&31N#9#SH1EUR     575358604 3 2
+Luis Robles         1AUW2X38  G2USD     97821175  2 3
+Maria Freire        CPY5I8R4  V7DARSX52F32217755  1 2
+Luis Freire         2QK8N     FQ9USD    915832454 2 3
+Alejandro Iglesias  #281TXR3  BGBPAPSLG6812949541 8 2
+Laura Salinas       8SZ88T3   XB2GBPKB0 435999914 3 3
+Tomas Giacomelli    82TWCGR   FAALU     83746303  2 2
+Abril Tomalino      #6PQ#Q    EUR682S   823812157 3 1
+Alejandro Suarez    EH8%SOR   KRCEUR    904792799 3 4
+Lucas Suarez        NOYO7RM   SJPY      575989139 7 1
+Abril Tomalino      A4B3Y     YCEUR35-Z 936069740 3 3
+Pedro Salinas       TBWWABW   ZXL3HJA   883691482 1 3
+Sara Giacomelli     #DO0CBJML 8GBPK-    921150724 8 2
+Tomas Iglesias      Q-3FPD9TKT4SEUR4-4KI183563203 3 5
+Alejandro Iglesias  IU2&P%0N  JQ20UY    903665076 1 5
+Sara Giacomelli     -B430M0   OFRARS    815188194 1 1
+Maria Robles        8MR5VXIB  SOGBP     746719644 3 3
+Abril Giacomelli    &P-M18    2GB1SGKVOT425316421 7 4
+Ana Salinas         DAMWR     DK0JPYEJPY248127866 7 5
+Ana Salinas         YJNM1V    AUEURYEUR 843936935 3 2
+Luis Salinas        8Y8W6JV34YPARSIARS  768775236 5 5
+Abril Salinas       0YCDV     ARS       755901294 1 2
+Alejandro Tomalino  F#OJO     XDEGBPDGBP239063139 8 2
+Alejandro Freire    -RGZWX    AUSD      391000499 2 3
+Juan Robles         XCVEBC9N  KW6USD    552030299 6 1
+Alejandro Tomalino  VGFSNUHYS1KQIGBPTLGJ672390585 8 1
+Tomas Salinas       62C7O5    QHGBP     628555025 8 4
+Luis Suarez         B#OL84%9  VQ5JPY    701587667 7 3
+Maria Suarez        SKEW-JBK  YGBP      572082932 8 3
+Juan Suarez         G5LA0     26RJPY    404969516 7 4
+Alejandro Tomalino  FC3#HJU   UUSD      19824966  6 2
+Ana Freire          IWBJFT    9USDQ-RDF 80077974  6 2
+Juan Giacomelli     QSY1V     T         127168180 5 1
+Lucas Robles        9BI93X&70KEUR       478391238 3 1
+Juan Freire         -WRSENVZ4 GBP       95200     3 4
+Tomas Iglesias      W-U4XXA   6IARS     279136144 5 1
+Ana Iglesias        L5MTB     SKCUSD    150440214 6 4
+Pedro Freire        ZCQS1U7JLSEURHEUR   427572829 3 5
+Ana Tomalino        X2UFG5#   DSUSD     331512042 6 5
+Pedro Freire        1X1206MI5OLE6JPY    684403579 7 5
+Abril Salinas       IV5Q-     -ANBO6ID  99817464  8 3
+Lucas Giacomelli    AMGJIVD   GBPNLHF   878781786 8 3
+Abril Iglesias      YKX65     TWGBP     424930298 8 4
+Pedro Robles        0GT512PZ  XZ4V      85901073  1 1
+Juan Freire         -LZ6C     2EURIEUR  185045812 3 3
+Alejandro Salinas   32J#BTA2PPLVARSOJ5NK287242536 1 2
+Sara Robles         GCYLE9SX6 GBPF7RTYP 974762083 8 5
+Pedro Robles        #E5O-     EB0GBP3DVX296580114 3 1
+Maria Iglesias      A44OVZY6XIH5WGBP    615761118 8 4
+Laura Iglesias      4X9HEQKF  R44GBPL   173549733 8 1
+Laura Robles        &%NU-5RT  7OGBP     481165903 3 3
+Laura Robles        4ANXQ-    QZJPYLJPY 557687987 7 1
+Lucas Giacomelli    MUXO%N6-PD2RFB      657643058 5 4
+Laura Salinas       ALFANRE%  H-WARS3T4 178613122 5 3
+Lucas Iglesias      E#4DIF    KX        84972746  5 4
+Abril Salinas       VWESLU4X  UJPY      813430632 7 1
+Luis Tomalino       CHDSV55   L51JPY    495513610 4 2
+Luis Freire         -GR8QRKF5 EURL9HX   317887837 3 5
+Laura Iglesias      W2QNE     Q5USDVD1  905749575 2 2
+Pedro Freire        P&E%T##BJ UJPY      943041254 7 1
+Tomas Suarez        5-ZI31VJL VEUR      351098823 3 1
+Laura Suarez        SWF&NNIS  XGBP      483106719 8 3
+Lucas Iglesias      DFOSQH5XR YN8JPYW   142383827 7 5
+Sara Robles         3ZLMR6    NYVEUR3A0 338875860 3 1
+Laura Suarez        6364QTSNC NA7JPY    334188336 4 4
+Laura Robles        BG5%-V    -H8GBP    16591510  3 1
+Sara Iglesias       -OJ%R     2FJPYKL   540590081 7 3
+Laura Tomalino      %96FL     MMOARS    242716874 5 2
+Luis Robles         9INCZQU3  VEUR      402735024 3 1
+Sara Freire         T5C8%0M   V1USDLUSD 101726471 2 1
+Juan Robles         #M4WS2RR  N0HARS6F  675165755 5 5
+Laura Salinas       GBOBR4FH  Q2JPY     103958535 4 2
+Pedro Freire        AZ1%%     QARSLKJLXA838852257 1 5
+Sara Suarez         LBLS871   XEUR      583284580 3 5
+Abril Suarez        9N1ZGNE   LKO71WNLRX276314127 5 3
+Tomas Giacomelli    J00H%J    ARSX8Z4H  752008410 5 4
+Sara Freire         -997V&IX  HP8ARSWEN 744082745 5 3
+Abril Giacomelli    NSO7LOGB  AGBPRT0   313554009 3 1
+Sara Salinas        Q%D29FM-  DUSD      38564131  2 1
+Juan Salinas        OKM1K51   REUR      791232159 3 5
+Luis Giacomelli     PAQO99368D8USDYP7CI 52012621  6 3
+Juan Salinas        QXUSQBOE  00USDDO4  152791767 6 3
+Laura Freire        HZNOE4    DZEURY    352409505 3 2
+Pedro Tomalino      E3-J3&N0  WJPY      80312396  7 1
+Luis Robles         83-PWCBV  02EURWEUR 484883432 3 1
+Juan Tomalino       AWN3#NTV  39EURAEURA980505516 3 3
+Ana Giacomelli      %BRFP722XRXWVEUR    2186816   3 1
+Abril Tomalino      2#WBXEQ9  USDT32Z   217917830 2 5
+Abril Tomalino      XVKEI%&   LARS3H    419549186 1 3
+Sara Robles         YHERI3D   EURYN9XF  764941838 3 2
+Ana Suarez          G54N4#6G- JPY       105473261 7 3
+Laura Salinas       95-NBU    L1ZUSD    788932666 6 4
+Sara Freire         7VAL8     90YFA0ZXPX204401416 7 4
+Alejandro Giacomelli7WBAX4P   HEURDX    450920993 3 5
+Alejandro Freire    SBU3QEM6-DNDARS     816240748 5 1
+Abril Tomalino      2J414QP1D UOYGBPZD2 179445431 8 1
+Tomas Salinas       2NXU2IN7  TSM1LPULS 994099911 6 1
+Lucas Freire        0H1RCYL#Z JPYP6     62697895  7 2
+Lucas Giacomelli    TM53B6IV  PJOEUR61  971114365 3 1
+Luis Iglesias       -U90AUA1VWJPY       163014163 7 3
+Pedro Freire        1U3PF2D   ARS2HNJIW 918222407 5 3
+Sara Giacomelli     TNS3DM6#  GBP8GBP   394285732 3 2
+Luis Giacomelli     4M65GPVS&DM2AGBP    279500725 3 4
+Ana Iglesias        -F&N0     M3IUSDAM3I233551457 2 3
+Luis Freire         Q&UAMZZX9 USDX      366381769 6 3
+Luis Salinas        2%FY&1XE- M5QC89I   583826633 8 5
+Maria Robles        PN#7#P&ZR EURAEUR   49136753  3 3
+Sara Robles         IACVS07X  IARSLARS6 749931635 1 3
+Lucas Suarez        FCFOF9    JPYO      149931676 4 2
+Ana Robles          EAW6Z574  BARS      674794537 5 3
+Alejandro Tomalino  JHVP6RVZ2U7K9EUR    907458034 3 5
+Laura Giacomelli    2V1UA40S  2GGGBPQJO 774895500 3 5
+Pedro Iglesias      KPUEIKP5SRMOEUR     45038063  3 3
+Tomas Giacomelli    D198#0    9J-818N-P 534237699 2 2
+Juan Giacomelli     P8XJV     PEUR      377355522 3 1
+Pedro Freire        YPV%8OY   7VEUQK    964484221 8 1
+Luis Suarez         S1V%A     LUSDO5    957968998 2 4
+Juan Tomalino       ZRYP0S    GBPXGBPS  558921469 3 3
+Lucas Suarez        1C2HUT4   SJ        907268824 3 3
+Maria Suarez        L&ZAX     MJHIIP-YG 202176908 8 4
+Juan Giacomelli     HAW-MMKIH ZBC3E8    938233539 3 5
+Pedro Giacomelli    WO3#2%DH  8EUR43    478310592 3 3
+Sara Suarez         J3HQTCE   EURQ8M641R77683517  3 1
+Alejandro Robles    ZXROB4MQR USD0Q9    432717639 6 4
+Lucas Robles        71HJ6EK5  T5XUSDKDN5992927699 6 5
+Ana Giacomelli      JDNJWJ532 VA3JPYBP  967897918 7 3
+Abril Tomalino      4JYD-8EX  JPY677    271707911 4 3
+Pedro Salinas       Z#%5UGOI  XUUSD     822976988 6 4
+Juan Robles         8DUG06KZ  GBPOLB    734569809 3 3
+Maria Suarez        -#41I61O-9R6OARS    483137643 5 1
+Juan Freire         7D3SR&0   ARSCARS   781242073 1 2
+Laura Tomalino      &AXD&&T8P N         771750523 7 2
+Laura Tomalino      F4TWPRI   0ARS      975388434 5 1
+Sara Tomalino       2FV934#L  HKUSD     809892712 2 2
+Abril Robles        0TUBVO    91-JPY    895400396 7 1
+Luis Freire         JEQSQM    JAIO-6    737807970 4 4
+Ana Tomalino        %26O&#C   2GBP      595902945 8 3
+Lucas Tomalino      7MDOQ     NJEURMAH  250338615 3 3
+Abril Iglesias      #9YEWQ5PI ARS0ARSBV 852238318 1 2
+Pedro Robles        13#WPGO   B3EURG    930449801 3 3
+Tomas Giacomelli    KUB2LL0ANLY9ARSCARS 704092794 1 3
+Sara Giacomelli     DPGG1#    URARS     917288197 5 4
+Maria Tomalino      99#ZLUC   BACJPY    774603940 4 5
+Abril Salinas       AX69FXFWZ-8GBUSD    66914912  2 5
+Luis Giacomelli     EQ8OVLG8  GEURWEUR  873575679 3 2
+Tomas Tomalino      B7CTK     W51ER     323402206 7 3
+Laura Giacomelli    GUOY1#0C82JPY4U31   50445162  7 1
+Luis Giacomelli     9N%MS&FJ8L2UEUR     616556144 3 2
+Ana Tomalino        LO6FS74%1XARSUARS   568834713 1 5
+Maria Robles        LS#0L     PNWUSD    398239444 2 4
+Ana Iglesias        %SU8X5D   0A        319482318 8 2
+Lucas Tomalino      R0#5M58P2 JE3USDQRU 388225444 2 5
+Lucas Tomalino      15R%9     LJPY      335221255 4 4
+Abril Iglesias      1INOHJHET 4JPY      48544989  7 2
+Tomas Robles        LLZR4F    RVDGBP5   98091527  8 4
+Alejandro Giacomelli2RSTZ9T   5EUR79YHCI149772518 3 5
+Alejandro Tomalino  2WVU8     YSGBPO8   859085749 8 4
+Tomas Tomalino      7WUTNYJ9Z1RKEUR     517243307 3 2
+Lucas Robles        4STWGK    E5P3      3372424   4 3
+Ana Tomalino        K%F#EZRKA UOEURX6FYE823240623 3 5
+Alejandro Suarez    #IIH6ATO0W8LIUSD    3302240   6 3
+Abril Freire        FN&NBO4   GQUSD     663174659 2 5
+Abril Iglesias      D4GESIKYXW2NMGBP    190669840 3 5
+Alejandro Robles    GVY7ZY    USD0L5    854053393 6 1
+Alejandro Salinas   2&XEQ     HTGBPPV-3 60771601  3 4
+Maria Robles        28NLPC3WK 8XUSD     476618797 6 5
+Abril Suarez        BDJ3C8F8D83NARS     506501238 5 1
+Sara Giacomelli     #V7V5     TEUSD     695218106 6 4
+Luis Tomalino       %5D7K9X   WEURDV    543026773 3 4
+Maria Iglesias      V1A97-Q   PARS9GR   557551788 5 5
+Laura Giacomelli    #Y4DSLF   HGBPUA0S  102783292 3 4
+Pedro Tomalino      C6U8LD    YUSD0M    597807461 2 4
+Luis Salinas        3O51YA8   1USDZ     594694058 6 1
+Tomas Freire        -AZWNE    IZWUSDVUSD204011703 2 4
+Alejandro GiacomelliPAQIH     8WEUR4MH  948474380 3 3
+Pedro Freire        WEPLC     ARS       684786893 5 2
+Tomas Robles        928X&     CX7GBP2J  10643595  8 1
+Luis Robles         XVLLX     OEUR      621084643 3 2
+Luis Robles         S5Y#Z#    Y8ZARS    332707481 1 4
+Lucas Salinas       BB6-CTCC  6-KL0E8UL1953436216 4 4
+Laura Giacomelli    IAW13S#8PTV2ARS     499270862 5 5
+Juan Freire         D&W1Z0F&SUO3OUSDRB0 838935779 2 3
+Alejandro Freire    NC&-A3&TP AGBPMK    935496986 3 1
+Abril Robles        %T1HNJST  NSGBPGC1  101480758 3 3
+Maria Iglesias      #RMFT2A   EURSHL7TO 520661082 3 5
+Maria Giacomelli    ENTY8SF35Y0EURDE    340525434 3 1
+Abril Tomalino      559RRZ9JPDULEURA0   923780209 3 1
+Alejandro Robles    6YU0%M4PTTMJPYG8    751410370 4 4
+Pedro Giacomelli    NZ%%WB    75KEUR7EUR829600377 3 3
+Tomas Salinas       &T#9A8N   V17       549018725 6 4
+Maria Robles        H98XU     4G        984508289 5 1
+Ana Tomalino        YV7EK#    CRIJPYSG  820532109 4 1
+Luis Salinas        Z7BM267NG IYAUSD    184804199 2 3
+Alejandro Salinas   KVX1TZ3CWIGBPR68J   889896176 8 5
+Laura Robles        T4XTED28B 5GBPJQG-W 372263929 8 2
+Laura Freire        R&XBSZ    BJPYFKV8A9749977195 4 5
+Lucas Salinas       L54FR     WUSDKUSD  967878452 6 3
+Juan Freire         NIUTWR    MCJPYMD   313788973 7 1
+Ana Freire          JU-VC&L   U6YARS    777501397 1 2
+Alejandro Freire    5W07IRK8X YUSDH9WM8 763042447 2 1
+Pedro Robles        2QVLZIT   E9JPY     999554473 7 1
+Juan Suarez         2NI&MNL1RE54JPY     563153875 7 1
+Juan Robles         DF264XL8  127GBP    74227888  8 2
+Lucas Giacomelli    H%6CV5    AJPYH     940841527 7 1
+Ana Tomalino        HZ6O%VNB  SD-ARSCARS529815849 5 3
+Sara Tomalino       Z8UY1N    USD       827689577 6 4
+Alejandro Suarez    -F5PJ89   QUSDOIWXO1695435542 2 4
+Sara Giacomelli     2Z128GKX# 7PARS     395030676 5 4
+Ana Giacomelli      0LFKUZ1M5 ARS3Z0    148577841 5 1
+Laura Giacomelli    HX0NJZ    KJLJPY    860315255 7 5
+Ana Salinas         SOSAQ     DOEURD2   506909412 3 2
+Ana Tomalino        WA4&WQO2PEAO4FYZ-   424740035 7 3
+Ana Freire          4MXQ4#A-  QGBP      992184790 3 2
+Ana Salinas         P9-X4L6   EURNZUF   2683854   3 4
+Pedro Iglesias      FEPSFYVTP USD       560040140 2 2
+Tomas Freire        D2WH3     APEUR     274068337 3 4
+Maria Robles        I8B437C   CEUT642KA 826438316 1 2
+Alejandro Salinas   6O6U-E96F37MUSDY5XGC815400769 2 2
+Pedro Suarez        Y96S8%D0U1HC4USD0USD395700465 2 2
+Lucas Tomalino      E-1KJR-   USD       769574385 2 3
+Laura Freire        32X4BOC   ARS       531618146 5 1
+Abril Salinas       JZ4#E7&KG1YEUR      859395840 3 2
+Lucas Giacomelli    D6EJ-E52  5USDISFA  572640984 6 3
+Ana Robles          -L45UB    B         326367704 1 4
+Sara Suarez         TWBQ&J&P5 EUSD6USDVG453326613 2 3
+Alejandro Suarez    D06PS0YO& 5         734050392 3 5
+Alejandro Freire    R5RRLR    JPYGJPY   767977200 4 2
+Ana Freire          W1LX-5Y80DJPYM-     46062253  4 1
+Maria Tomalino      DRDG04S   USD       553518500 2 4
+Juan Freire         2&%DI5-V0FILEJPY    228170823 7 5
+Laura Robles        R51ZT6UYBM0JPYKJPY  486956380 7 1
+Tomas Iglesias      NM7LXJ1   MHAUSD    265654370 6 4
+Lucas Suarez        Z&FGB9    YIARSHARS-951694656 5 3
+Tomas Tomalino      AWG8OCL4-XKCEUR     464618743 3 4
+Pedro Iglesias      GV#PJQAI  LEUR2     701487364 3 3
+Abril Freire        X0SIGN2LV ARS       145056932 1 2
+Laura Robles        0O6VS     EURXCB    566664282 3 5
+Pedro Suarez        US4F9WROK 52GEUR806 244841705 3 1
+Lucas Giacomelli    &R6-M4    GBP7TIQD0 367343701 8 3
+Sara Freire         IR6-P&TBP0RY8DTKL9L 607224798 5 1
+Sara Iglesias       5%#&&XO   IV        298081655 4 5
+Maria Giacomelli    RMLMGU9TZ4PSUSD0    146665805 2 1
+Abril Freire        TZ8PA7X8-SO78ARSJARS169343465 5 1
+Alejandro Giacomelli%&I%6QF6  CJFJPY    593731381 4 2
+Ana Freire          41PSK     XECUSD    109685784 6 5
+Tomas Salinas       3YZ#R     2IJPYZ    134654291 4 2
+Pedro Robles        98VF5DUY5 V6HCKL6T  156933868 5 4
+Juan Giacomelli     FF%WYICR  WHHGBP699 944750070 3 1
+Alejandro Salinas   APVOZUYIA 7SJPY10Q  346587313 4 2
+Abril Freire        I73-I%Z   KCFEURXOZ 130815140 3 4
+Tomas Iglesias      ZLYEYP    ARSMOET   995002036 1 1
+Laura Freire        %574NAQ   1EURL     73164235  3 2
+Sara Tomalino       P%7PG     GBPVYJOA  516353470 8 3
+Juan Giacomelli     OJQUGP    EWARSJQJ  47228882  5 4
+Ana Robles          NN3LEFYC9 LEUR7     880112493 3 4
+Juan Robles         TQ&%U     KGBP      683572332 3 2
+Pedro Suarez        WW-ZPXL   BARSW7    699073673 5 2
+Alejandro Suarez    M8SL&     6-RL2     261731730 5 3
+Alejandro Salinas   6IQ9B5    Y-EUR     354308061 3 1
+Abril Iglesias      A5#NA     IGBP      572752202 3 2
+Pedro Tomalino      2&YGZX-C  LW9XX2    406058398 3 2
+Tomas Salinas       R2AB0     HZJPY-JAP 217165811 4 4
+Alejandro GiacomelliYGOZ3DL   YF1V      383775700 5 4
+Lucas Salinas       TW-K0-    JPYIJPY   798978188 4 2
+Abril Tomalino      3EWSUDQ   3R2QH     216561442 6 1
+Pedro Salinas       UTS8SHEG3 BCOGBP    315581566 8 4
+Lucas Freire        PF-4U5%9  -XWJPY    255636909 7 5
+Sara Salinas        B%MCC     USDXUSD   565885533 6 5
+Pedro Robles        5HL30Q4LA 80ARS     571816705 1 5
+Sara Robles         6ECS7     SPRARS1   649507052 5 4
+Abril Iglesias      CKAL%TJMHFYUSDXWD85 998645733 2 4
+Juan Tomalino       771PE7GR  1YUSD36   651043155 6 1
+Ana Iglesias        OM574P44  7CNUSD    789605508 6 3
+Abril Salinas       8A197J6Q3 EURWW9QQG 245631765 3 2
+Alejandro Robles    9RUT0ZEIR GBJARS    971193615 1 2
+Abril Giacomelli    H3I-&JI   5YJPYB0   753971669 7 1
+Tomas Tomalino      X4KSD5W   0CVEUR-FG 143549127 3 3
+Lucas Salinas       LNYCMWSFFPZSZEUR    110642098 3 2
+Tomas Suarez        PIC5J     EURIA     795823733 3 3
+Tomas Freire        4U64AKFE96KARSK     690807412 5 2
+Pedro Iglesias      DHJQE     YGBP88YD6 834573235 3 2
+Lucas Suarez        CR1E7     GBP       29789097  3 4
+Luis Salinas        &9IIO4    5PW9A9YX  25425359  3 2
+Tomas Suarez        URVLYPCMASJJPY2JPY  814558067 4 4
+Ana Robles          VRH378B0M8WRARS1MSIX891912385 5 4
+Luis Freire         I9OJ9LBL  7SK0O     862529072 8 5
+Ana Suarez          &9O&TKAYH9SM9SF0FWII438064829 4 1
+Lucas Iglesias      O93FC#ZI# STAJPY    744788985 4 2
+Tomas Salinas       5XEQ6JV5F NGBPEUAQ9N886017329 3 5
+Ana Salinas         RK7W9DONH ARS87Z    784942303 1 2
+Lucas Giacomelli    EQ15B6KD  ZSEUR5AUX 898429218 3 5
+Juan Suarez         UTC3NF228TWLARS     510645367 1 2
+Sara Freire         EAR5EA    3TJPY     9437302   4 3
+Maria Iglesias      W%D43MI   ARS2G     379391558 5 1
+Tomas Suarez        GB-2HI1N  GBP0ZTT   12059039  3 1
+Luis Suarez         L09%&O    1QKEUR    143989657 3 3
+Alejandro Salinas   TWT1B7#P  43ARSGAY6 647363075 5 5
+Lucas Tomalino      279LX5S5-6T-EURIEUR 923644062 3 2
+Abril Robles        8W6YA     RJPYR     170062229 7 1
+Tomas Robles        UXCNX     QARS      363320610 1 4
+Ana Suarez          Y7E&587GT FDUSDUB33 741935420 2 3
+Luis Giacomelli     UFZ10&    ZOUEUR    907125914 3 3
+Pedro Freire        RGV17S    4P3E9T    735642160 5 5
+Pedro Suarez        MJJM7ZS4U JA2USD1SIB798317009 2 4
+Ana Tomalino        CBMRN     ARS       827020284 1 4
+Maria Tomalino      I4QF9     XBJPY     771428701 4 3
+Alejandro Salinas   7DWYVXQRADIUSDBD2CVT607696890 6 5
+Laura Freire        UFFH7X5XQEJPYF41TK  486874475 4 4
+Tomas Tomalino      743G1     461JPY    756207678 4 1
+Ana Robles          JDNUR8J7P IUZGBQ    471220392 6 1
+Juan Freire         #86MVRKUD1QCJEQFGLVG921460155 4 4
+Sara Robles         C7A8XGY   6G2MGLW   431619011 4 3
+Alejandro Iglesias  TVHLI3ZR  GBPF6XL   635738649 3 2
+Pedro Robles        2#U2I9OZC PEUR      280201787 3 4
+Laura Giacomelli    E%6TMMQ2  USD       557026176 2 3
+Luis Tomalino       RTZD0     USDAEST3  470791611 6 2
+Alejandro Suarez    DQ0XY5S   R5UW3     712135317 4 5
+Alejandro Tomalino  WHJ28TIY9 M7GBP     263518422 8 5
+Tomas Tomalino      Q0N5ZP1F  TJ        649860378 1 2
+Tomas Salinas       BR3D7     SSWJPYP   644565426 7 2
+Sara Freire         1AAD9ANQVH3PEUR7    86079141  3 4
+Abril Freire        K3BJT2G   JEURBMG   322855596 3 1
+Laura Suarez        VB6I&2MJ4AVEURF2    886066979 3 1
+Alejandro Tomalino  DVXVL3    7GBP      263071016 8 2
+Tomas Salinas       QLBMTLV#0-OGUJPY    552919853 7 3
+Ana Robles          FW3XWE-H8X4DJPY     127053140 4 2
+Sara Tomalino       OVFV0     UGXHU     177549582 4 5
+Alejandro Freire    U163Q2D   X96X      688768118 5 2
+Laura Robles        U8-4ASDYN PUSD4G58HT47991550  6 3
+Sara Giacomelli     UIV1LW    M5C-      640266829 6 5
+Luis Freire         D5EPGXNH  JDUSD     800434715 6 2
+Juan Salinas        &MAOJZ%A# JPYQWS    138276714 4 5
+Laura Freire        GCFAO-99& 2HSARS    846771569 5 1
+Maria Iglesias      UBUWZ1%RAEV8USDNI   267567546 6 2
+Maria Freire        KTSBB3%C  HTARS1ARS 427633674 1 4
+Pedro Giacomelli    7NG#M     X1BJPYNT  855201640 7 2
+Ana Freire          RL9-HZ%K787EUR      26012473  3 5
+Lucas Robles        MH#VZA-   EUR       388637812 3 4
+Juan Robles         YY70R     GBP       741427409 8 1
+Maria Iglesias      22VBLD3U-18JPY5OL9C6244548840 4 3
+Alejandro Suarez    E0EM-     USD1QS-O  308294720 2 2
+Ana Suarez          %TM7-8    BSEUR     786015336 3 1
+Maria Salinas       0QVX0V3   -ITEURUO  928194795 3 3
+Alejandro Suarez    VR59V5&M#5R05       308883677 5 5
+Tomas Suarez        AK0RS0AD4GIOMGBP    888685189 8 5
+Maria Giacomelli    C6LFDLB9G 6         744781773 8 2
+Pedro Giacomelli    C%RDO#5UANUSDDMWNFJ1509637492 2 5
+Luis Tomalino       LE096O9HG XQNUSDU64 153904153 2 2
+Sara Tomalino       #59XRWT7  U3OARS6A00161031115 1 4
+Pedro Tomalino      UT-GN24   GBPOG4GT  190681641 8 5
+Sara Iglesias       B6I1A6    USD       286721875 2 5
+Tomas Robles        VDVKL     IUSD5USD  646232877 2 3
+Alejandro Iglesias  HDR%Y1GYHR6JPYRYX40 291642068 4 1
+Juan Robles         LPZU3H#8JOREURAEUR  720083986 3 1
+Alejandro Suarez    #-RET0    JPY286OS  721438782 7 2
+Laura Iglesias      ZP2RWWX3W 0EURKY    896815835 3 1
+Tomas Robles        AHVIJHM%JP2ARS      4099192   5 2
+Maria Tomalino      6L-181CKX WILUSD    845253279 2 2
+Alejandro Iglesias  AEJ4VKKZ  EURA2J-I4 839365259 3 3
+Pedro Salinas       W%7&C     GBPV1XV   20663121  8 5
+Maria Robles        9#7&HR0-  ARSERQ6A  657797931 5 5
+Maria Tomalino      V%55%EJ   7ROJPYHJPY558791303 4 5
+Laura Salinas       5ZN7-ASCA0XGBPPCIA  611919068 3 5
+Laura Salinas       MI1K7D7   MPQ7      413921782 1 4
+Lucas Salinas       %WBEX7N   XGBP      667765831 8 1
+Laura Salinas       B0F8VK    NJPYPHL-P 133943305 4 5
+Ana Tomalino        ZPMIY52   FS4JPY    156693107 4 4
+Lucas Tomalino      2JYD0&GX1M4FMV2Y74S 5433822   1 4
+Juan Robles         N9MO#R7   5         662004898 8 3
+Pedro Giacomelli    I2XZW4FVAAEURAD4    59286828  3 2
+Juan Robles         C-TCT     VARS5     813946362 1 1
+Tomas Tomalino      E37TYY    GBP       923881772 8 2
+Sara Salinas        E&YD-T    QJPY2JPY  278196404 4 1
+Tomas Salinas       Q8PCEMU-T ARS       921727565 1 4
+Abril Iglesias      51%V1A    PJPY      932484992 7 1
+Maria Giacomelli    8-MWYX    D2GBPI    727428831 3 2
+Laura Robles        92&3Q     5LUC8V648 398535109 5 3
+Alejandro Freire    R4RGIO1QE 0O0ELAE   757051347 5 3
+Abril Giacomelli    X&VL4EP   ARSQARS4L 582623613 5 1
+Lucas Salinas       G0UML     JXARS61O3 171672680 5 1
+Ana Freire          0SP95NEP  EUR       240245602 3 3
+Abril Suarez        1IQ14B0O  9EURNEUR  573004236 3 2
+Abril Iglesias      COYDTISP  JPY3Q2    478827619 4 2
+Juan Freire         QQDR2#RVT ZFUEURVYN 880407209 3 3
+Maria Salinas       TU#JK&ZYK 86JPY     384421845 7 1
+Ana Salinas         %&3&E3    LQLJPY    982894332 4 3
+Luis Iglesias       RU2RNJ    KEURPSJH6 526744494 3 2
+Maria Tomalino      JHDEFWGO8 91KGBPF19T965738988 8 5
+Abril Iglesias      7X%RC     KVJXHQ4UL 110846011 5 2
+Alejandro Tomalino  1LNN7IS   USD       130031759 6 2
+Alejandro GiacomelliTT6C0Q    6ARSD     799586922 5 1
+Abril Salinas       3&TLUN    -MTEURUT  115016588 3 5
+Lucas Iglesias      K741#2S   5GBP1YV95E697782519 8 1
+Laura Salinas       03&VUOA-  1EUR      742015077 3 2
+Sara Freire         ECEA5I    XJPY7O6SFX133829193 7 1
+Sara Iglesias       ZOJWR0    JARSKLS3  286389961 1 5
+Ana Tomalino        SJ%&T&WFDF93        121785886 6 1
+Maria Tomalino      4LHX-PVK7 ARS       452879735 5 3
+Tomas Robles        &CRN2OJ-  XVLGBPU7  392969747 3 3
+Pedro Freire        T8D&EFKE  RR2R      78401454  5 5
+Lucas Salinas       EED16FK   SJPY      550901928 4 1
+Maria Robles        ZQZXB#LFTERYARS     226051873 1 2
+Sara Freire         649TXLUWT JPYAJPY   839066183 4 3
+Pedro Giacomelli    JY#8#Y4%R BEURLB    627257829 3 2
+Luis Giacomelli     TVRC1KH9T0USDRXKBS91204108703 2 4
+Sara Freire         RNLWUJ9RLCGCGBPK    497126083 8 5
+Lucas Freire        98HKMMKBAOUZBUSD1USD231572728 2 5
+Juan Giacomelli     E0W8-XQ29 JUSDJ5S   668035586 2 5
+Laura Freire        NBDTOBE&PUGBP       613281857 3 5
+Maria Robles        J%WO5     UARS1D8   210722492 5 3
+Juan Robles         608YE#-9B JPYYDL8   117303160 7 2
+Laura Robles        %MI09PQ   8NZUSD    776544485 2 4
+Lucas Iglesias      0O91VW6LNGONUSDV    616785631 2 4
+Ana Freire          M2IKD5FQ7 USD       72840380  6 3
+Pedro Iglesias      PC2NX     6ARSHARS  370937300 1 2
+Sara Suarez         GJQQ#PJ   BEURGEUR3 721337905 3 3
+Pedro Robles        -P100UX-  GBP       589401734 8 1
+Laura Giacomelli    Z4ESW     4CARS     30411816  1 4
+Pedro Freire        RHEIOH#4149P33D7Q28T682913216 5 5
+Juan Freire         SWM&8J    JPY       646047855 7 5
+Tomas Giacomelli    9CDP-FH   XIWE      135288163 8 5
+Tomas Freire        QLDJ5X#C  MFUSD     273526414 2 5
+Maria Iglesias      1KU95H    GBPPST9   223752031 3 4
+Lucas Giacomelli    OXYJG     SNHUSD    21191165  6 5
+Abril Giacomelli    #AA4BXALA ZXHUNJ    114189120 3 5
+Pedro Suarez        L0LJ8M7   Q7USD00W9P463773441 2 1
+Maria Robles        9WA5Y0H2  K79GBP    987626555 8 5
+Alejandro Salinas   K%LJD     9USJPY    440997468 4 2
+Luis Robles         QKPU7WQ11OARSR      720054581 1 1
+Tomas Robles        RVH%U     QQJPY     481243048 7 3
+Pedro Freire        %SI#CMGO& ARS       649004114 5 4
+Maria Tomalino      6#ZMQGP0KEARSLIDXF  294896868 5 5
+Abril Suarez        UV6LD20D  AEUR4EURX 433931720 3 5
+Pedro Robles        #T4ZPC#O98JPY       16699928  4 2
+Luis Freire         Z&95G2LM69GNEUR4PR  956708728 3 2
+Juan Suarez         02ID6M1   LGBPTZ    136161133 8 1
+Juan Suarez         X641R     29EURJO   940290277 3 4
+Ana Salinas         IPGNUU-O  43ZARS    888903051 5 3
+Alejandro Robles    3#NJ5     JARSACLC  484131600 1 5
+Sara Iglesias       JP09LBAM  QEUR6EV   118753642 3 5
+Luis Giacomelli     2XDSKUSX  TJPYVJPY  734057158 7 4
+Laura Robles        12592FATZHXTDUSD1YOL7511166   2 2
+Alejandro Salinas   Y225CO    USD1P2-   378201746 6 5
+Luis Robles         9P231JZ   WFGBP     220347495 8 2
+Alejandro Iglesias  5E9VV4    -ARS0RZ   874709157 5 2
+Ana Suarez          0UGB4W40I1JPYRJPY   791364890 4 4
+Tomas Freire        &4KR8H50P KC5BM5    900460985 7 4
+Juan Iglesias       25QTQ     PUXJPY    191370019 4 2
+Pedro Tomalino      BYNLHLPRJ1JPYOJPY   870650284 4 1
+Luis Suarez         W4F9O     0GBPF     4239537   3 2
+Laura Salinas       HR52X     8BJARS    326594482 1 1
+Pedro Freire        EW-ECK&QGN-VVRI9    843691404 4 2
+Sara Iglesias       4LU#5OKYV U-7       135555106 5 4
+Sara Iglesias       NKX242N   JPY7JPY   374659170 4 3
+Laura Iglesias      %E#-H     TXARS     661117866 5 2
+Ana Robles          TF#Q&%G2T0TARSWX    735765537 1 1
+Abril Robles        &R10-ZM   GXARS0T   497618511 1 1
+Pedro Suarez        V4DPNN4MX GN3USD    351928059 6 1
+Juan Iglesias       GV484     ZEQ5LPN3U 355616797 8 4
+Luis Suarez         &STELNKW2QNT9EURYEUR492544138 3 5
+Alejandro Iglesias  %H28K43S6 S-SUSD9USD451183191 6 3
+Abril Salinas       OA99PGY-E61X2KS     873926009 8 1
+Ana Tomalino        8SW0NL2   DWUSDC    25806365  2 1
+Alejandro Robles    A0V72R0   6ARS      455607649 5 4
+Luis Salinas        B-APOGG39 9DKJPY    978227635 4 1
+Juan Giacomelli     3VCH6FST  JPY       457465837 4 2
+Ana Suarez          WMY4QUZ   47FUSD    230601853 2 5
+Luis Tomalino       Y8LMM     QUSDV0F62I193311075 6 5
+Abril Giacomelli    5082&70LW1U         580396137 4 5
+Alejandro Tomalino  BW#GV     2MIPT1M2P 132536544 6 3
+Sara Robles         ICQW2MMO  EUR4ZMQ   644641050 3 2
+Sara Iglesias       LI5847U8  RKUUSD    73320280  2 1
+Maria Tomalino      &Z8CRHV   JRLKN2    372280331 6 5
+Alejandro Freire    DZX7F     USD       716934593 2 2
+Sara Salinas        V-8ZZCFT77UKP3FW237 794167840 5 2
+Ana Robles          K-PL8MZY  AR-ARS4K4 677512096 5 5
+Laura Freire        SCWXWG9   EURREUR   519085769 3 1
+Luis Suarez         DFMJO&8   I6GBPE-Y9 287524112 8 4
+Maria Salinas       0ZKKB&8   EJPY-JPY  260839865 4 2
+Lucas Suarez        EK4TGF5J%&F         838069031 7 2
+Tomas Salinas       M0-#DN64S KJPY      435930487 7 3
+Juan Freire         NWSRT     ZFHEUR7   168929643 3 5
+Sara Suarez         #VI&N70RK GBPQ5KRL3 746962056 3 1
+Laura Giacomelli    EPOBSW    LIVZC     544704735 6 1
+Maria Tomalino      8MCF&62   GL        371265205 1 1
+Laura Suarez        #92GMAE7S AP1O91    955668396 6 3
+Ana Iglesias        A4ZB6UHP9JHQPARSZ   984579215 1 2
+Ana Salinas         A3ILBY#S#JCSW9BAZWC 43518838  6 4
+Juan Giacomelli     ZGK47     8EUR      373016816 3 1
+Juan Tomalino       0YLL&W    N4USD     931396368 2 2
+Lucas Giacomelli    D9CYX&    D-ARSCZ-  993633110 1 3
+Sara Giacomelli     3#Y%LUIA9 4S4USD8Z  475387996 6 4
+Lucas Tomalino      LGH-T&GZDT7JPY      220961235 7 1
+Luis Tomalino       ZC4EQ6    5JPY2-TI9 141142302 7 5
+Juan Giacomelli     2&RU#H#AGUGXA47     393310852 1 1
+Laura Robles        -S1I71S   LARS      91137228  5 5
+Juan Tomalino       BJP-3T4G  EURMEUR   860054392 3 2
+Laura Robles        S-DZ&KK   4ARSPB7   604038482 5 2
+Tomas Giacomelli    8QBTB-O   A5USDPY2KO997378770 6 1
+Tomas Freire        F%#KBYKIG51UZ31O17R 513829006 6 5
+Pedro Iglesias      ZTFNNOZ   MOEGBP    874287054 3 2
+Maria Iglesias      HN1&K#G0  K6ARS     82479477  5 4
+Laura Tomalino      69YW6RF   38FBW     194643543 1 1
+Pedro Tomalino      6RW3INORYCHARSDIEVA 358377680 5 1
+Tomas Suarez        T-EHXRT7# HMJGBP    716681537 3 3
+Sara Tomalino       C5Y#LXXF  4NGBPQXKH2865682385 3 1
+Juan Suarez         &F35E     MR        59796785  3 1
+Maria Robles        U4RN8D-   XJPY      679019102 7 4
+Sara Freire         HUH#4     O4FJPY9R  743491640 7 3
+Sara Giacomelli     H8-5THIZ- ARSRARS   421572340 5 3
+Ana Iglesias        BCTL67HS  37YGBPST  782727768 3 3
+Maria Iglesias      %Q#1WFIWD RARSDAQ   860797720 1 5
+Luis Salinas        FXF6Z-9   2EURYUH4  599618950 3 4
+Pedro Giacomelli    X6&0N3    JPY8NYWT7 399624442 7 1
+Laura Freire        UUBX8XCS  7ARS      98538530  5 2
+Maria Iglesias      09%IR     J2JJPY    513846660 4 5
+Lucas Salinas       SMVKON    1DYHJO    982954899 2 4
+Pedro Tomalino      LWULBACQ7LWDGBP     405847275 3 4
+Sara Freire         J-54H7#   NZ2EUR    117935455 3 4
+Tomas Tomalino      HL19NCRU  MG4ARSJARS229830313 1 1
+Lucas Robles        DFBR#     DUOGBP    260668934 3 5
+Laura Salinas       NMDB2     1ARS      100100075 5 1
+Maria Robles        V%ZBAAX   USDC173I9 14499306  6 4
+Alejandro Suarez    OVI80M    EEUR      480943563 3 1
+Laura Giacomelli    -4CA0O2I  -FPG3     688220061 3 5
+Luis Iglesias       6YK8PL48XXOSNUSD    301258004 2 4
+Juan Suarez         H1%I2     2USD      699286839 2 4
+Laura Robles        P9RRV5JR  GBP6SLZ9DH576379903 8 1
+Tomas Tomalino      MATJ7N#6GKT-HEURO   362334261 3 5
+Pedro Freire        7#GEBKBU  ENGBP     485037085 8 5
+Maria Iglesias      B7R%OKECDZL3UARS6ARS837027702 5 5
+Sara Freire         UGLDQ24EA ARSQK8JOJ 577599676 5 2
+Sara Suarez         %2GMQ#3U  -QB8P     536124107 1 1
+Ana Robles          VS%0WT8X  27ARSD    924563788 5 5
+Alejandro Tomalino  AUSKK5    06VEUR    103752692 3 2
+Sara Giacomelli     E%T06     CUP-J     222807582 1 1
+Laura Giacomelli    W96THU&   D709-2MF  123106806 7 4
+Maria Salinas       Y7H05     ARSL      584321964 1 3
+Pedro Suarez        1Z&QD30   ARSZH     217950791 1 1
+Lucas Robles        D#E3P80GL USDA5LB1H 240532083 6 1
+Juan Freire         LUBGPVZL2 29V17WQR  442721067 7 4
+Ana Tomalino        4XB5WQJ%  39ARS5DWF 997016793 1 5
+Maria Suarez        B#REV%    7EUR      516835822 3 5
+Laura Salinas       68SERRTJ8 W0USDVDU  109920527 6 4
+Ana Suarez          CL39WJQ   6JPYYB7FO 19487482  4 2
+Tomas Suarez        AKJ7%9BY  NJPY      502820371 7 1
+Abril Suarez        %1BZ#KT-  6BGBP72L  515944529 3 2
+Ana Suarez          5&D&DQ#X  GBPRGBP   132951463 8 3
+Pedro Tomalino      #49P2Y&T%A8EARSZ    984828318 5 3
+Tomas Iglesias      YDA%F72KS WGP       391184172 8 3
+Sara Suarez         8B2I309-X BMYGBP    853322147 3 2
+Lucas Iglesias      FFEGDP4%  CCIJPY    752846061 4 3
+Tomas Suarez        QYRQS%SQ  OWIARSSO3N555800304 5 2
+Ana Salinas         DS2ZRSVOU-TPUSDTL1KM315771716 6 3
+Maria Suarez        H5SIY&5I  MRGBPYGBP 25317211  8 1
+Maria Salinas       O&BYME8   GBP       103816898 3 3
+Lucas Salinas       Q#21-     2         812861361 1 4
+Laura Freire        Y33-RE    JPY       700632112 4 1
+Juan Suarez         4OEVPU5KLX9LGBP4Z   713624346 3 1
+Juan Tomalino       2R24HV7X  NEUR0     958836729 3 1
+Ana Salinas         9LKVN4E   6ARS0IX6  432980748 1 5
+Luis Suarez         7MV%4XXK2A1QARSLARS 178068796 5 3
+Alejandro Tomalino  WYSIE7MI  JARS      42931642  1 2
+Laura Salinas       MOYDM5    ZVNUSD21G 139015481 2 3
+Maria Suarez        5QH7A     REQARSQJUZ77259354  5 1
+Abril Salinas       XWB3QHGU  ZUSD      209393824 6 1
+Tomas Iglesias      FJDXI     OA1W      149514549 6 2
+Abril Tomalino      #UDWPX    GBPDBVJ9ZO464840695 8 1
+Alejandro Iglesias  8FYI6G&X  1USD      973145493 6 4
+Sara Giacomelli     T5TTA8UY  NIJPY     984715409 7 4
+Abril Robles        3G%0PS    JJPYHXSH  406094184 7 3
+Sara Freire         F6%EG4    CRWRHZ    279127783 3 4
+Juan Suarez         4FHJVH    QGBPV     711509620 3 1
+Lucas Tomalino      QKKA-CDLY 1USD1YSBI5166044490 6 4
+Alejandro Tomalino  T#7LOO1   O3VBANQ7-G193483572 2 1
+Tomas Iglesias      &KI2OYYZ4NUSDWJ2BQOX489474615 2 2
+Pedro Suarez        Q9&EE6&&IAC9USD     799669449 6 2
+Luis Iglesias       8U34N1#C  3ARS      995716021 5 3
+Luis Suarez         PN3JUZHO2 ARS       715441481 5 2
+Laura Freire        O%FZF#3X  JHPGBP0OGP246091047 8 4
+Lucas Robles        001HBV3   4BWUSDSH  128074269 6 4
+Abril Robles        OUBRLNQMU GBPJGBPY  180494114 8 3
+Pedro Freire        -B3F5VAF- SXARSG    572621587 1 3
+Ana Salinas         3ECND#    L7JPYAY   406721148 7 4
+Laura Freire        #48&#H    71O       923577974 6 5
+Alejandro Tomalino  G#7RNERI0 EUR       894091385 3 2
+Laura Tomalino      %RVK%TZ50 NVARSIARS6106642282 1 3
+Lucas Tomalino      KXEI9     QUSDV6XSS 870531335 6 3
+Maria Suarez        &EJC&74   OMREUR    847518078 3 2
+Tomas Tomalino      E9W42#K48 1         258143560 7 4
+Tomas Freire        PZ5%3&OJ  MOUSD7U0  162119326 2 2
+Lucas Iglesias      2HG0K     FEY9-O    493226807 2 4
+Juan Freire         Z47SOFG5#CARSPMW3Y  914318469 5 1
+Juan Giacomelli     VE2Z1D&A  YJPY      202887155 4 3
+Alejandro GiacomelliUWL%Z-    ARS       374553946 5 4
+Ana Freire          Z0ZLSQ5   M-USD8W9  410181151 6 1
+Laura Suarez        XKBW99P1BMUJPYQ8NJ  882204329 4 5
+Alejandro Tomalino  IGMUM2Q7GSJPYDERX   851307294 4 3
+Pedro Iglesias      SHXFSI    96LGBP4GBP330025718 3 5
+Lucas Salinas       VJI3H     5CEURBEUR 97528831  3 5
+Abril Giacomelli    SWFNGMSPFWYLEURSWVL 873398034 3 3
+Laura Giacomelli    60D-5TZ   PEURHZW4  274953204 3 5
+Ana Salinas         66E&ESB   OAJPY     157125025 4 1
+Sara Suarez         T467Z3&   KGBPY     84834410  3 3
+Abril Tomalino      K4BG6JJJ  -UMGBP    36437983  8 1
+Luis Iglesias       ##YG7     3WHARSFY5A787889811 5 2
+Abril Salinas       EA86ZI    TUSD      531488151 2 1
+Sara Suarez         LI89Z     6MPJPY    134155249 7 4
+Maria Freire        2&1F-LL8  GBP       869426756 3 5
+Alejandro Salinas   BLUB&     6PEUR     251459214 3 1
+Lucas Robles        &R5F7BICIAD         903408213 5 5
+Lucas Tomalino      V&-YL7MC  39JPY     287900883 4 2
+Alejandro Tomalino  LH520EMS% M2GBPPUWST848946763 3 5
+Sara Robles         5J3QPLE   S         951727730 8 5
+Lucas Tomalino      SHX-ML75  0SYIQ5DI-R860650212 1 3
+Lucas Suarez        2QQ2-JC-L PGBP      986914794 8 5
+Alejandro Iglesias  J3Y-6C    A160ANXFR9195841121 7 2
+Lucas Robles        XI8IBE&   9N1USD28  900645546 2 1
+Lucas Iglesias      UC7TPF    USDN4NG   77615310  2 5
+Laura Tomalino      Y3-YU91QZXQRJPY     494521262 7 3
+Alejandro Giacomelli6FWUQ6VHK -CONLV    333734252 1 5
+Pedro Iglesias      0YI3%W    XOJPY     476479611 4 4
+Maria Iglesias      8JU%QUH&K NJPYFJPY  779527566 4 5
+Pedro Tomalino      GDL7O     IO4WIDI2O 196500593 4 1
+Juan Giacomelli     4N0U&EX   IARSP     888797562 5 1
+Ana Giacomelli      46CLU0    CP39D6YRD7859808603 7 2
+Abril Iglesias      EUX4&31   PEUR8Q    848016284 3 1
+Abril Tomalino      JRTRXHP   PZRARSWARS189319080 5 5
+Laura Iglesias      6ZHQJ34U  KSUSD     283151499 6 3
+Juan Giacomelli     17#KS4    JPYF2NC5Q 229046290 4 5
+Tomas Suarez        GF-G5PDTRHA         767399536 7 5
+Alejandro Salinas   C1Y-PM%   -IPGBPFIMG689133683 3 1
+Ana Giacomelli      HGLH%TN   JOWUSDXUSD32806991  6 1
+Pedro Freire        7F3KTD9P  9FUSD     957836767 2 4
+Luis Iglesias       FU0M0ALF  4ARS      71031386  1 5
+Abril Freire        Y7EVD3B&V WJPYPDUX  160530266 7 3
+Sara Robles         #FBH-1    Q1FUSDOW- 160531160 6 3
+Ana Iglesias        2Q&DZ#TI%8B71USD    681428733 6 4
+Alejandro Tomalino  J4ODB8    25JPYXJPY 179560807 7 1
+Pedro Suarez        2Y-RP     7VSJJ5QF  569020525 1 5
+Alejandro Freire    L5Q9Q     0GBP      371881333 8 3
+Juan Suarez         ATXUDKN4  K-JPY     86656579  7 2
+Laura Freire        I77#FLYP  GBPI7V    981184819 8 1
+Luis Tomalino       -JUIN%9CFB4OO6982N  621953534 7 2
+Ana Robles          WXNVSURFY CH92O     864281372 3 5
+Tomas Giacomelli    4L5E9FV   D1        333943600 6 3
+Tomas Salinas       XJCHN7KGD JPYCQIABGA965785211 7 4
+Laura Freire        E-&VNLEF  YSUSDYN   339595080 2 4
+Laura Freire        6CJONME   WGBPHG    725272478 8 5
+Laura Suarez        -G89T1    4VA6S     571401039 5 2
+Maria Robles        YP8F12BLG CDUSD     75310303  2 2
+Alejandro Salinas   OXPVQZG   GBP       840656239 8 4
+Maria Freire        8CLFR2U5  EUR323    540998306 3 3
+Pedro Iglesias      0CXP9WR7  EUR       191136581 3 1
+Alejandro Giacomelli-SKXF50   USDMG3P   913070470 2 5
+Sara Tomalino       B9YLHNF&& 9USD0XO-TY499345019 2 1
+Laura Freire        HWH%X1Q#U 2-AUSD-   842932466 6 3
+Ana Iglesias        C77PC     XGBPQ0WM7 254565056 3 1
+Sara Freire         SP5BNSY9  6ARS-2FN4 709972798 1 4
+Sara Salinas        6A0G66    XJPYJ78   868009983 4 3
+Abril Tomalino      S5FFJ99MIFGBP       295236887 8 3
+Alejandro GiacomelliKGIZ%YGXZCJFVZJG7L  521890818 4 3
+Pedro Robles        KOTYNRU26AARS7OI-U9W806604256 5 4
+Laura Robles        QAHLHOO%MHRRGBP     285186730 8 1
+Juan Robles         IAN0ARWK9K-ARSW     345669133 5 4
+Lucas Robles        UMU07RBD  EHZGBPNRO 760554259 8 4
+Lucas Freire        -B3-&NZVQ YARSRARS8 102706821 5 1
+Laura Suarez        JC1#Q50D  GYAJPY    547553462 7 2
+Juan Salinas        L0D2VH    88USD     811488005 6 1
+Ana Suarez          YW5TBWK%  7O-3      496963680 6 3
+Sara Freire         HZF3JQZ   4A9GBP    681132484 8 2
+Laura Freire        XMG9G     KP0X8SYG0352944276  1 3
+Tomas Giacomelli    GXNJA7IPU 5-5GBP    684711980 8 1
+Pedro Salinas       WS#ZAUZVM EUR       607577091 3 4
+Tomas Giacomelli    3#POL3H   ARS       24165209  5 3
+Lucas Freire        QH6L68ILG JUTEUR    234099652 3 3
+Sara Giacomelli     4L#CE     A6USD     536863132 6 2
+Lucas Giacomelli    VFLDJF5   A-GBP     82591976  3 2
+Maria Iglesias      1SR74K1   OBEUR     26140240  3 2
+Juan Iglesias       -F4V1     FNARSYARS 795221291 5 2
+Pedro Suarez        6V%-QF&N  VMJR      303593745 2 1
+Pedro Suarez        I377B1O#  MC        954377705 4 2
+Tomas Iglesias      WA#H-0QV6 5SMEUR    795575510 3 2
+Lucas Robles        8BE555H   3-7JPY3   126673084 4 3
+Luis Suarez         9FAG-N2   L8JPYEJPY779510994  7 1
+Abril Robles        7R4ZYC16CGGBRUSDUUSD797989301 2 4
+Pedro Suarez        IWL01J14P N6GBP     55631554  8 2
+Maria Robles        YD4%#     G0S7V6TJE736750476  5 1
+Maria Giacomelli    1FLK&-4X6X9THGBP    436998825 8 4
+Sara Tomalino       J2L7KREL5K6JPYK     634208676 4 2
+Ana Iglesias        12DW85U#  IL2ARSQ5  774328512 1 3
+Ana Freire          PSTCMP5UU ROARS     426568224 1 4
+Laura Robles        X%9SM9&TT ARSOFCQZP 198960480 1 2
+Laura Freire        0BP38P81  VARS      949741986 5 4
+Maria Giacomelli    31SPWQNCLP5MGBP     449672814 3 2
+Sara Suarez         9C5I1     WGBPYX2-FD466221487 3 5
+Tomas Robles        BVJI6Y    ARSZARS3CM540026262 5 3
+Pedro Salinas       K-DG2N    EX        645391863 2 2

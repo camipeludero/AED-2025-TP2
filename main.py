@@ -54,36 +54,46 @@ def validar_numero_orden(num_codigo):
 
     return valido
 
-def calcular_monto_base_1(monto_nominal: float):
-    return monto_nominal - (monto_nominal * 0.09)
+def calcular_monto_base_1(monto_nominal):
+    return monto_nominal - ((monto_nominal * 9) // 100)
 
-def calcular_monto_base_2(monto_nominal: float):
+def calcular_monto_base_2(monto_nominal):
     if monto_nominal < 50000:
         return monto_nominal
     elif 50000 <= monto_nominal < 80000:
-        return monto_nominal - (monto_nominal * 0.05)
+        return monto_nominal - ((monto_nominal * 5) // 100)
     else:
-        return monto_nominal - (monto_nominal * 0.078)
+        return monto_nominal - ((monto_nominal * 7.8) // 100)
 
-def calcular_monto_base_3(monto_nominal: float):
+def calcular_monto_base_3(monto_nominal):
     MONTO_FIJO = 100
     comision = 0
     if monto_nominal > 25000:
-        comision = monto_nominal * 0.06
+        comision = (monto_nominal * 6) // 100
     return monto_nominal - (MONTO_FIJO + comision)
 
-def calcular_monto_base_4(monto_nominal: float):
+def calcular_monto_base_4(monto_nominal):
     if monto_nominal <= 100000:
         return monto_nominal - 500
     else:
         return monto_nominal - 1000
 
-def calcular_monto_base_5(monto_nominal: float):
+def calcular_monto_base_5(monto_nominal):
     comision = 0
     if monto_nominal >= 500000:
-        comision = monto_nominal * 0.07
+        comision = (monto_nominal * 7) // 100
     if comision > 50000:
         comision = 50000
+    return monto_nominal - comision
+
+def calcular_monto_base_7(monto_nominal: float):
+    comision = 0
+    if monto_nominal <= 75000:
+        comision = 3000
+    else:
+        comision = ((monto_nominal - 75000) * 5) // 100
+    if comision > 10000:
+        comision = 10000
     return monto_nominal - comision
 
 def calcular_monto_base(monto_nominal: float, n_algoritmo: int):
@@ -97,14 +107,16 @@ def calcular_monto_base(monto_nominal: float, n_algoritmo: int):
         return calcular_monto_base_4(monto_nominal)
     elif n_algoritmo == 5:
         return calcular_monto_base_5(monto_nominal)
+    elif n_algoritmo == 7:
+        return calcular_monto_base_7(monto_nominal)
     else:
-        return 0
+        return monto_nominal
 
 def calcular_monto_final_1(monto_base: float):
     impuesto = 0
     if monto_base > 300000:
         excedente = monto_base - 300000
-        impuesto = excedente * 0.25
+        impuesto = (excedente * 25) // 100
     return monto_base - impuesto
 
 def calcular_monto_final_2(monto_base: float):
@@ -115,7 +127,7 @@ def calcular_monto_final_2(monto_base: float):
     return monto_base - impuesto
 
 def calcular_monto_final_3(monto_base: float):
-    impuesto = monto_base * 0.03
+    impuesto = (monto_base * 3) // 100
     return monto_base - impuesto
 
 def calcular_monto_final(monto_base: float, n_algoritmo: int):
@@ -126,7 +138,7 @@ def calcular_monto_final(monto_base: float, n_algoritmo: int):
     elif n_algoritmo == 3:
         return calcular_monto_final_3(monto_base)
     else:
-        return 0
+        return monto_base
 
 def calcular_promedio_entero(suma,cant):
     if cant > 0:
